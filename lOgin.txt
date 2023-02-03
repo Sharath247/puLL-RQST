@@ -1,1 +1,1 @@
-Login feature in progress
+Login feature is developed
